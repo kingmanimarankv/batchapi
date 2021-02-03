@@ -13,6 +13,20 @@
       "next_batch_description": "1st Batch Start",
       "next_batch_startdate": "20-01-2021",
       "next_batch_joinlink": ""
+    },
+    {
+      "next_batch_id": 1,
+      "next_batch_title": "TNPSC",
+      "next_batch_description": "Group 1 1st Batch Start",
+      "next_batch_startdate": "20-01-2021",
+      "next_batch_joinlink": ""
+    },
+    {
+      "next_batch_id": 1,
+      "next_batch_title": "TNPSC",
+      "next_batch_description": "Group 1 1st Batch Start",
+      "next_batch_startdate": "20-01-2021",
+      "next_batch_joinlink": ""
     }
   ]
 }
